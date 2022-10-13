@@ -1,5 +1,5 @@
 # Pokemon-Trivia
-Pokemon Trivia that I made in high school C++ class
+Pokemon Trivia that I made in high school C++ class, Uses loops, external files, conditionals
 
 made on repl.it so may not work with windows
 
